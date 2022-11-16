@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width:90%;
+    margin: 0% auto;
+    background-color:dodgerblue;
+    background-image: none;
+}
+.logo img{
+    width: 15%;;
+}
+.navegacao a{
+    float:right;
+    color: rgb(red, green, blue);
+    text-decoration:none;
+    padding:10px;
+}
+.navegacao a:hover{
+    color: coral;
+    background-color: green;
+}
+.rodape{
+    color:darkgray;
+    font-size:15px;
+    text-align:center;
+}
+.img{
+    padding: 100px;
+}
